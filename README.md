@@ -6,8 +6,7 @@
 
 This includes skins for:
 
-**Clock and current date.**
-
+**Clock and current date.**<br/>
 *Speaks the date, time and current weather when clicked*
 
 <p align="center">
