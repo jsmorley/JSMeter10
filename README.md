@@ -19,6 +19,25 @@ User login time<br/>
 RAM memory, with details in a tooltip<br/>
 Space information for 3 drives*
 
+**Network**<br/>
+*Network information<br/>
+WAN and LAN IP addresses<br/>
+Upload and download rates
+Optional WIFI status and information*
+
+**Weather.com**<br/>
+*Weather information<br/>
+Using the JSON API from weather.com*
+
+**GMailNotify**<br/>
+*Count of GMail inbox<br/>
+Message subjects in a tooltip*
+
+**Recycle**<br/>
+*Windows Recycle Bin<br/>
+Size and count*
+
+
 <p align="center">
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
 </p>
