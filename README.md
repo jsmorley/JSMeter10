@@ -21,7 +21,7 @@ Space information for 3 drives
 **Network**<br/>
 Network information<br/>
 WAN and LAN IP addresses<br/>
-Upload and download rates
+Upload and download rates<br/>
 Optional WIFI status and information
 
 **Weather.com**<br/>
