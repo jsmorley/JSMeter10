@@ -6,8 +6,8 @@
 
 This includes skins for:
 
-###### ClockWeather
-*Clock and current date. Speaks the date, time and current weather when clicked*
+**Clock and current date.**
+*Speaks the date, time and current weather when clicked*
 
 <p align="center">
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
