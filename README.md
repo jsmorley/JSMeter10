@@ -38,8 +38,8 @@ Size and count*
 **Dock**<br/>
 *Customizable Dock / Launcher*
 
-** Welcome**<br/>
-When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. You can use this to toggle on and off individual skins, set a desired color for both labels and value in the skins, and open the all-important @Resources folder to change various settings.
+**Welcome**<br/>
+When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. You can use this to toggle on and off individual skins, set a desired color for both labels and value in the skins, and open the all-important **@Resources** folder to change various settings.
 
 <p align="center">
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
