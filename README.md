@@ -10,6 +10,7 @@ This includes skins for:
 **System**<br/>
 *System information<br/>
 CPU usage with temperature<br/>
+The CPU temperature requires that you are running HWInfo. See the skin file for details.<br/>
 Top process<br/>
 Monitor size, with optional second monitor<br/>
 System uptime<br/>
