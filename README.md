@@ -37,6 +37,8 @@ Message subjects in a tooltip*
 *Windows Recycle Bin<br/>
 Size and count*
 
+**Dock**<br/>
+*Customizable Dock / Launcher*
 
 <p align="center">
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
