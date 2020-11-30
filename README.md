@@ -7,7 +7,7 @@
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
 * **ClockWeather**<br/>
-![Image of  ClockWeather](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/ClockWeather.jpg)
+![Image of  ClockWeather](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/ClockWeather.jpg)<br/>
 Speaks the date, time and current weather when clicked
 
 * **System**<br/>
