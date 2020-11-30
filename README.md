@@ -1,5 +1,9 @@
 ## JSMeter10 - Suite of skins for Rainmeter
 
+**Get the latest release of the .rmskin**
+
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/jsmorley/JSMeter10/latest/total?label=download%20.rmskin&style=for-the-badge)](https://github.com/jsmorley/JSMeter10/releases)
+
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
 * **ClockWeather**<br/>
@@ -49,10 +53,6 @@ When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. 
 <p align="center">
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
 </p>
-
-**Get the latest release of the .rmskin**
-
-[![GitHub release (latest by date)](https://img.shields.io/github/downloads/jsmorley/JSMeter10/latest/total?label=download%20.rmskin&style=for-the-badge)](https://github.com/jsmorley/JSMeter10/releases)
 
 **Get help on the Rainmeter forums**
 
