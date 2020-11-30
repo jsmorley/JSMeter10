@@ -24,6 +24,10 @@ WAN and LAN IP addresses<br/>
 Upload and download rates<br/>
 Optional WIFI status and information
 
+**HWInfo**<br/>
+Sensor information for 4 hardware sensors you define<br/>
+*This skin requires that you are running HWInfo. See the skin file for details.*<br/>
+
 **Weather.com**<br/>
 Weather information<br/>
 Using the JSON API from weather.com
