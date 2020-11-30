@@ -53,6 +53,7 @@ When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. 
 <br/><br/>**Get the latest release of the .rmskin at:**
 
 [Releases - JSMeter10](https://github.com/jsmorley/JSMeter10/releases)
+![GitHub release (latest by date)](https://img.shields.io/github/downloads/jsmorley/JSMeter10/latest/total?style=for-the-badge)
 
 <br/>**Help with the various skins can be had by posting to my thread on the Rainmeter forums:**
 
