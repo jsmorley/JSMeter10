@@ -35,20 +35,24 @@ Sensor information for 4 hardware sensors you define<br/>
 *This skin requires that you are running HWInfo. See the skin file for details.*<br/>
 
 * **Weather.com**<br/>
+![Image of  Weather](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/Weather.jpg)<br/>
 Weather information<br/>
 Using the JSON API from weather.com
 
 * **GMailNotify**<br/>
+![Image of  GMail](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/GMail.jpg)<br/>
 Count of unread emails in a GMail inbox<br/>
 Message subjects in a tooltip<br/>
 Slide-out notification on new emails
 
 * **Recycle**<br/>
+![Image of  Recycle](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/Recycle.jpg)<br/>
 Windows Recycle Bin<br/>
 Size and count<br/>
 Left-click to open, Right-click to empty
 
 * **Dock**<br/>
+![Image of  Dock](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/Dock.jpg)<br/>
 Customizable Dock / Launcher
 
 * **Welcome**<br/>
