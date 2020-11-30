@@ -2,7 +2,7 @@
 
 **Get the latest release of the .rmskin**
 
-[![GitHub release (latest by date)](https://img.shields.io/github/downloads/jsmorley/JSMeter10/latest/total?label=download%20jsmeter10.rmskin&style=for-the-badge)](https://github.com/jsmorley/JSMeter10/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/downloads/jsmorley/JSMeter10/latest/total?label=Download%20JSMeter10.rmskin&flat-square)](https://github.com/jsmorley/JSMeter10/releases)
 
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
