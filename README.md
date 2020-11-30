@@ -7,9 +7,11 @@
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
 * **ClockWeather**<br/>
+![Image of  ClockWeather](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/ClockWeather.jpg)<br/>
 Speaks the date, time and current weather when clicked
 
 * **System**<br/>
+![Image of  System](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/System.jpg)<br/>
 System information in a tooltip<br/>
 CPU usage with temperature<br/>
 *The CPU temperature requires that you are running HWInfo. See the skin file for details.*<br/>
@@ -21,6 +23,7 @@ RAM memory, with details in a tooltip<br/>
 Drive space and read/write indicators for 3 drives, with details in a tooltip
 
 * **Network**<br/>
+![Image of  Network](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/Network1.jpg)![Image of  Network](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/Network2.jpg)<br/>
 Network information<br/>
 WAN and LAN IP addresses<br/>
 Upload and download rates<br/>
