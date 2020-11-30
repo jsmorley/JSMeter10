@@ -14,7 +14,7 @@ Monitor size, with optional second monitor<br/>
 System uptime<br/>
 User login time<br/>
 RAM memory, with details in a tooltip<br/>
-Drive space and read/write indicators for 3 drives
+Drive space and read/write indicators for 3 drives, with details in a tooltip
 
 * **Network**<br/>
 Network information<br/>
