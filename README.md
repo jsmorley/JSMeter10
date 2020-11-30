@@ -7,8 +7,8 @@
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
 * **ClockWeather**<br/>
-Speaks the date, time and current weather when clicked<br/>
 ![Image of  ClockWeather](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/ClockWeather.jpg)
+Speaks the date, time and current weather when clicked
 
 * **System**<br/>
 System information in a tooltip<br/>
