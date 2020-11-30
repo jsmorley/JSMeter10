@@ -50,8 +50,6 @@ When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. 
   <img src="https://github.com/jsmorley/JSMeter10/blob/main/Welcome/WelcomeImage.jpg" />
 </p>
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-
 <br/><br/>**Get the latest release of the .rmskin at:**
 
 [Releases - JSMeter10](https://github.com/jsmorley/JSMeter10/releases)
