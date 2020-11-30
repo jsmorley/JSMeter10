@@ -2,8 +2,6 @@
 
 ![Image of  JSMeter10](https://github.com/jsmorley/JSMeter10/blob/main/Welcome/JSMeter10.jpg)
 
-This includes skins for:
-
 * **ClockWeather**<br/>
 *Speaks the date, time and current weather when clicked*
 
