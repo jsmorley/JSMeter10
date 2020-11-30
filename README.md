@@ -38,6 +38,7 @@ Slide-out notification on new emails
 * **Recycle**<br/>
 Windows Recycle Bin<br/>
 Size and count
+Left-click to open, Right-click to empty
 
 * **Dock**<br/>
 Customizable Dock / Launcher
