@@ -6,7 +6,7 @@
 *Speaks the date, time and current weather when clicked*
 
 * **System**<br/>
-System information<br/>
+System information in a tooltip<br/>
 CPU usage with temperature<br/>
 *The CPU temperature requires that you are running HWInfo. See the skin file for details.*<br/>
 Top process<br/>
