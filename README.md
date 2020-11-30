@@ -31,7 +31,7 @@ Weather information<br/>
 Using the JSON API from weather.com
 
 * **GMailNotify**<br/>
-Count of GMail inbox<br/>
+Count of unread emails in a GMail inbox<br/>
 Message subjects in a tooltip<br/>
 Slide-out notification on new emails
 
