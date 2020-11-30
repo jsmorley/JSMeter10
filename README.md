@@ -30,6 +30,7 @@ Upload and download rates<br/>
 Optional WIFI status and information
 
 * **HWInfo**<br/>
+![Image of  HWInfo](https://github.com/jsmorley/JSMeter10/blob/main/SiteImages/HWInfo.jpg)<br/>
 Sensor information for 4 hardware sensors you define<br/>
 *This skin requires that you are running HWInfo. See the skin file for details.*<br/>
 
