@@ -7,7 +7,7 @@ This includes skins for:
 * **ClockWeather**<br/>
 *Speaks the date, time and current weather when clicked*
 
-**System**<br/>
+* **System**<br/>
 System information<br/>
 CPU usage with temperature<br/>
 *The CPU temperature requires that you are running HWInfo. See the skin file for details.*<br/>
@@ -18,32 +18,32 @@ User login time<br/>
 RAM memory, with details in a tooltip<br/>
 Drive space and read/write indicators for 3 drives
 
-**Network**<br/>
+* **Network**<br/>
 Network information<br/>
 WAN and LAN IP addresses<br/>
 Upload and download rates<br/>
 Optional WIFI status and information
 
-**HWInfo**<br/>
+* **HWInfo**<br/>
 Sensor information for 4 hardware sensors you define<br/>
 *This skin requires that you are running HWInfo. See the skin file for details.*<br/>
 
-**Weather.com**<br/>
+* **Weather.com**<br/>
 Weather information<br/>
 Using the JSON API from weather.com
 
-**GMailNotify**<br/>
+* **GMailNotify**<br/>
 Count of GMail inbox<br/>
 Message subjects in a tooltip
 
-**Recycle**<br/>
+* **Recycle**<br/>
 Windows Recycle Bin<br/>
 Size and count
 
-**Dock**<br/>
+* **Dock**<br/>
 Customizable Dock / Launcher
 
-**Welcome**<br/>
+* **Welcome**<br/>
 When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. You can use this to toggle on and off individual skins, set a desired color for both labels and values in the skins, and open the all-important **@Resources** folder to change various settings.
 
 <p align="center">
