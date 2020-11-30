@@ -54,6 +54,6 @@ When installed, the .rmskin will load the Welcome skin for the JSMeter10 suite. 
 
 [Releases - JSMeter10](https://github.com/jsmorley/JSMeter10/releases)
 
-<br/><br/>❓ **Help with the various skins can be had by posting to my thread on the Rainmeter forums:**
+<br/><br/>🗨 **Help with the various skins can be had by posting to my thread on the Rainmeter forums:**
 
 [Forums - JSMeter10](https://forum.rainmeter.net/viewtopic.php?f=27&t=36457#p185912)
