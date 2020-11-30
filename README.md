@@ -4,7 +4,7 @@
 
 This includes skins for:
 
-**Clock and current date**<br/>
+**ClockWeather*<br/>
 *Speaks the date, time and current weather when clicked*
 
 **System**<br/>
